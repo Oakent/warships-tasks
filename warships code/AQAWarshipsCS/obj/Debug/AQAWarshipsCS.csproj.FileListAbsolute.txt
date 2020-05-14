@@ -1,0 +1,20 @@
+G:\Teaching\Business\Computing\Computer Science\C Sharp\Year 1 Programming 2019\Practise Paper1 2016 Warships\Correct Code\AQAWarshipsCS\AQAWarshipsCS\bin\Debug\AQAWarshipsCS.exe.config
+G:\Teaching\Business\Computing\Computer Science\C Sharp\Year 1 Programming 2019\Practise Paper1 2016 Warships\Correct Code\AQAWarshipsCS\AQAWarshipsCS\bin\Debug\AQAWarshipsCS.exe
+G:\Teaching\Business\Computing\Computer Science\C Sharp\Year 1 Programming 2019\Practise Paper1 2016 Warships\Correct Code\AQAWarshipsCS\AQAWarshipsCS\bin\Debug\AQAWarshipsCS.pdb
+G:\Teaching\Business\Computing\Computer Science\C Sharp\Year 1 Programming 2019\Practise Paper1 2016 Warships\Correct Code\AQAWarshipsCS\AQAWarshipsCS\obj\Debug\AQAWarshipsCS.csprojAssemblyReference.cache
+G:\Teaching\Business\Computing\Computer Science\C Sharp\Year 1 Programming 2019\Practise Paper1 2016 Warships\Correct Code\AQAWarshipsCS\AQAWarshipsCS\obj\Debug\AQAWarshipsCS.csproj.CoreCompileInputs.cache
+G:\Teaching\Business\Computing\Computer Science\C Sharp\Year 1 Programming 2019\Practise Paper1 2016 Warships\Correct Code\AQAWarshipsCS\AQAWarshipsCS\obj\Debug\AQAWarshipsCS.exe
+G:\Teaching\Business\Computing\Computer Science\C Sharp\Year 1 Programming 2019\Practise Paper1 2016 Warships\Correct Code\AQAWarshipsCS\AQAWarshipsCS\obj\Debug\AQAWarshipsCS.pdb
+H:\College\Computer Science\Warships Material\Warships Material\AQAWarshipsCS\bin\Debug\AQAWarshipsCS.exe.config
+H:\College\Computer Science\Warships Material\Warships Material\AQAWarshipsCS\bin\Debug\AQAWarshipsCS.exe
+H:\College\Computer Science\Warships Material\Warships Material\AQAWarshipsCS\bin\Debug\AQAWarshipsCS.pdb
+H:\College\Computer Science\Warships Material\Warships Material\AQAWarshipsCS\obj\Debug\AQAWarshipsCS.csprojAssemblyReference.cache
+H:\College\Computer Science\Warships Material\Warships Material\AQAWarshipsCS\obj\Debug\AQAWarshipsCS.exe
+H:\College\Computer Science\Warships Material\Warships Material\AQAWarshipsCS\obj\Debug\AQAWarshipsCS.pdb
+H:\College\Computer Science\Warships Material\warships code\AQAWarshipsCS\bin\Debug\AQAWarshipsCS.exe.config
+H:\College\Computer Science\Warships Material\warships code\AQAWarshipsCS\bin\Debug\AQAWarshipsCS.exe
+H:\College\Computer Science\Warships Material\warships code\AQAWarshipsCS\bin\Debug\AQAWarshipsCS.pdb
+H:\College\Computer Science\Warships Material\warships code\AQAWarshipsCS\obj\Debug\AQAWarshipsCS.csprojAssemblyReference.cache
+H:\College\Computer Science\Warships Material\warships code\AQAWarshipsCS\obj\Debug\AQAWarshipsCS.exe
+H:\College\Computer Science\Warships Material\warships code\AQAWarshipsCS\obj\Debug\AQAWarshipsCS.pdb
+H:\College\Computer Science\Warships Material\warships code\AQAWarshipsCS\obj\Debug\AQAWarshipsCS.csproj.CoreCompileInputs.cache
